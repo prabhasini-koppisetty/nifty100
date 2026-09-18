@@ -1,0 +1,13 @@
+table,rows,columns,missing_values
+companies,92,12,9
+profitandloss,1164,15,213
+balancesheet,1140,13,0
+cashflow,1068,7,8
+analysis,16,6,0
+documents,1457,4,52
+prosandcons,14,4,4
+sectors,92,6,0
+market_cap,552,9,0
+stock_prices,5520,9,0
+financial_ratios,1160,16,170
+peer_groups,56,4,0
