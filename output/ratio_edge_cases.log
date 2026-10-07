@@ -1,0 +1,10 @@
+=== SPRINT 2 RATIO ENGINE EDGE CASE & ANOMALY LOG ===
+
+Company ID: PNB (Punjab National Bank) | Year: 2024-03
+Metric: ROCE | Computed: 118.22 | Source: 1.63 | Diff: 116.59
+Category: VERSION_DIFFERENCE | Explanation: Computed annual ROCE (118.22%) differs from companies.xlsx benchmark ROCE (1.63%). Financials sector leverage model difference.
+--------------------------------------------------------------------------------
+Company ID: PNB (Punjab National Bank) | Year: 2024-03
+Metric: ROE | Computed: 61.32 | Source: 8.7 | Diff: 52.62
+Category: VERSION_DIFFERENCE | Explanation: Computed annual ROE (61.32%) differs from companies.xlsx benchmark ROE (8.70%). Authoritative ratio-engine value retained.
+--------------------------------------------------------------------------------

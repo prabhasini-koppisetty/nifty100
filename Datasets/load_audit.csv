@@ -1,0 +1,13 @@
+table,raw_rows,loaded_rows,rejected_rows,status,rejection_reason
+companies,92,92,0,LOADED,No rows rejected
+profitandloss,1276,1073,203,LOADED_WITH_REJECTIONS,"TTM rows, duplicate company/year rows, and/or orphan company IDs"
+balancesheet,1312,1140,172,LOADED_WITH_REJECTIONS,duplicate company/year rows and/or orphan company IDs
+cashflow,1187,1056,131,LOADED_WITH_REJECTIONS,duplicate company/year rows and/or orphan company IDs
+analysis,20,16,4,LOADED_WITH_REJECTIONS,Rows removed during ETL quality cleaning
+documents,1585,1457,128,LOADED_WITH_REJECTIONS,Rows removed during ETL quality cleaning
+prosandcons,16,14,2,LOADED_WITH_REJECTIONS,Rows removed during ETL quality cleaning
+sectors,92,92,0,LOADED,No rows rejected
+market_cap,552,552,0,LOADED,No rows rejected
+stock_prices,5520,5520,0,LOADED,No rows rejected
+financial_ratios,1184,1160,24,LOADED_WITH_REJECTIONS,orphan company IDs
+peer_groups,56,56,0,LOADED,No rows rejected

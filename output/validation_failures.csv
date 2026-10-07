@@ -1,0 +1,689 @@
+rule,severity,table,company_id,year,details
+DQ-05,WARNING,profitandloss,ADANIENSOL,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,AXISBANK,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,AXISBANK,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,AXISBANK,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,AXISBANK,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,AXISBANK,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,AXISBANK,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,AXISBANK,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,AXISBANK,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,AXISBANK,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,AXISBANK,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,AXISBANK,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,AXISBANK,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BAJFINANCE,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BAJFINANCE,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BAJFINANCE,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BAJFINANCE,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BAJFINANCE,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BAJFINANCE,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BAJFINANCE,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BAJFINANCE,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BAJFINANCE,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BAJFINANCE,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BANKBARODA,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BANKBARODA,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BANKBARODA,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BANKBARODA,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BANKBARODA,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BANKBARODA,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BANKBARODA,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BANKBARODA,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BANKBARODA,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BANKBARODA,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BANKBARODA,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,BANKBARODA,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CANBK,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CANBK,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CANBK,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CANBK,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CANBK,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CANBK,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CANBK,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CANBK,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CANBK,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CANBK,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CANBK,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CANBK,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CHOLAFIN,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CHOLAFIN,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CHOLAFIN,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CHOLAFIN,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CHOLAFIN,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CHOLAFIN,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CHOLAFIN,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CHOLAFIN,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CHOLAFIN,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CHOLAFIN,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CHOLAFIN,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CHOLAFIN,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CIPLA,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CIPLA,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CIPLA,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CIPLA,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CIPLA,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CIPLA,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CIPLA,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CIPLA,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CIPLA,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CIPLA,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CIPLA,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,CIPLA,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,COALINDIA,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,COALINDIA,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,COALINDIA,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,COALINDIA,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,COALINDIA,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,COALINDIA,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,COALINDIA,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,COALINDIA,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,COALINDIA,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,COALINDIA,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,COALINDIA,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,COALINDIA,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCBANK,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCBANK,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCBANK,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCBANK,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCBANK,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCBANK,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCBANK,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCBANK,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCBANK,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCBANK,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCBANK,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCBANK,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCLIFE,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCLIFE,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCLIFE,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCLIFE,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCLIFE,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCLIFE,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCLIFE,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCLIFE,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCLIFE,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCLIFE,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCLIFE,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HDFCLIFE,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDALCO,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDALCO,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDALCO,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDALCO,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDALCO,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDALCO,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDALCO,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDALCO,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDALCO,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDALCO,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDALCO,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDALCO,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDUNILVR,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDUNILVR,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDUNILVR,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDUNILVR,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDUNILVR,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDUNILVR,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDUNILVR,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDUNILVR,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDUNILVR,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDUNILVR,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDUNILVR,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,HINDUNILVR,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIBANK,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIBANK,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIBANK,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIBANK,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIBANK,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIBANK,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIBANK,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIBANK,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIBANK,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIBANK,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIBANK,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIBANK,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIGI,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIGI,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIGI,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIGI,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIGI,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIGI,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIGI,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIGI,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIGI,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIGI,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIGI,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIGI,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIPRULI,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIPRULI,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIPRULI,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIPRULI,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIPRULI,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIPRULI,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIPRULI,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIPRULI,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIPRULI,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIPRULI,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIPRULI,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,ICICIPRULI,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDUSINDBK,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDUSINDBK,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDUSINDBK,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDUSINDBK,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDUSINDBK,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDUSINDBK,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDUSINDBK,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDUSINDBK,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDUSINDBK,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDUSINDBK,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDUSINDBK,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDUSINDBK,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,JIOFIN,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,KOTAKBANK,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,KOTAKBANK,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,KOTAKBANK,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,KOTAKBANK,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,KOTAKBANK,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,KOTAKBANK,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,KOTAKBANK,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,KOTAKBANK,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,KOTAKBANK,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,KOTAKBANK,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,KOTAKBANK,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,KOTAKBANK,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,SUNPHARMA,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDIGO,2013-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDIGO,2014-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDIGO,2015-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDIGO,2016-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDIGO,2017-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDIGO,2018-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDIGO,2019-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDIGO,2020-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDIGO,2021-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDIGO,2022-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDIGO,2023-03,Source OPM differs from calculated OPM by >= 1%
+DQ-05,WARNING,profitandloss,INDIGO,2024-03,Source OPM differs from calculated OPM by >= 1%
+DQ-06,WARNING,profitandloss,ADANIENSOL,2014-03,Sales is zero or negative
+DQ-09,WARNING,cashflow,TVSMOTOR,2022-03,Net cash flow differs from CFO + CFI + CFF by more than 10 Cr
+DQ-11,WARNING,profitandloss,ADANIENT,2014-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,ADANIGREEN,2017-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,ADANIGREEN,2018-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,ADANIGREEN,2019-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,ADANIPOWER,2014-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,ADANIPOWER,2016-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,ADANIPOWER,2017-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,ADANIPOWER,2023-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,AMBUJACEM,2018-12,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,APOLLOHOSP,2018-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,AXISBANK,2018-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,AXISBANK,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BANKBARODA,2016-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BANKBARODA,2018-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BANKBARODA,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BANKBARODA,2021-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BHARTIARTL,2014-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BHARTIARTL,2019-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BHARTIARTL,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BHARTIARTL,2021-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BHEL,2016-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BHEL,2018-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BHEL,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BHEL,2021-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,BHEL,2024-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,CANBK,2016-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,CANBK,2018-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,CANBK,2019-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,DLF,2014-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,DLF,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,DRREDDY,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,GODREJCP,2019-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,GODREJCP,2024-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,GRASIM,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,HDFCLIFE,2024-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,HINDALCO,2015-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,HINDALCO,2016-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,IOC,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,IRFC,2013-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,JINDALSTEL,2015-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,JINDALSTEL,2016-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,JINDALSTEL,2017-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,JINDALSTEL,2018-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,JINDALSTEL,2019-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,JSWENERGY,2018-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,JSWSTEEL,2014-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,JSWSTEEL,2016-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,JSWSTEEL,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,LICI,2019-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,LICI,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,LICI,2021-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,LICI,2022-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,LODHA,2021-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,LODHA,2023-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,M&M,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,MOTHERSON,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,NAUKRI,2015-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,NAUKRI,2017-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,NAUKRI,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,NAUKRI,2023-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,NHPC,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,NHPC,2022-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,NTPC,2016-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,NTPC,2019-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,PNB,2016-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,PNB,2018-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,PNB,2019-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,POWERGRID,2019-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,SBIN,2017-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,SBIN,2018-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,SHREECEM,2015-06,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TATACONSUM,2016-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TATAMOTORS,2019-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TATAMOTORS,2024-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TATAPOWER,2013-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TATAPOWER,2014-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TATAPOWER,2015-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TATASTEEL,2013-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TATASTEEL,2015-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TATASTEEL,2016-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TATASTEEL,2017-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TATASTEEL,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TATASTEEL,2024-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TRENT,2013-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TRENT,2014-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TRENT,2021-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,TRENT,2022-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,INDIGO,2019-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,INDIGO,2020-03,Tax percentage outside 0-60%
+DQ-11,WARNING,profitandloss,INDIGO,2024-03,Tax percentage outside 0-60%
+DQ-12,WARNING,profitandloss,BHARTIARTL,2019-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,BHARTIARTL,2020-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,BHEL,2016-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,BRITANNIA,2021-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,DLF,2020-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,HINDALCO,2016-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,IOC,2020-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,JSWSTEEL,2016-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,M&M,2020-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,NAUKRI,2017-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,NAUKRI,2020-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,NAUKRI,2023-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,PNB,2016-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,SBIN,2017-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,TATACONSUM,2016-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,TATAPOWER,2013-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,TATAPOWER,2014-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,TATAPOWER,2015-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,TATASTEEL,2013-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,TATASTEEL,2015-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,TATASTEEL,2016-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,TATASTEEL,2017-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,TATASTEEL,2024-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,TRENT,2013-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,TRENT,2014-03,Dividend payout outside 0-200%
+DQ-12,WARNING,profitandloss,TRENT,2021-03,Dividend payout outside 0-200%
+DQ-13,WARNING,documents,ADANIENSOL,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIENSOL,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIENSOL,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIENSOL,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIENSOL,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIENSOL,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIENSOL,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIENT,2011-03,Missing annual report URL
+DQ-13,WARNING,documents,ADANIENT,2010-03,Missing annual report URL
+DQ-13,WARNING,documents,ADANIENT,2009-03,Missing annual report URL
+DQ-13,WARNING,documents,ADANIGREEN,2017-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIGREEN,2016-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIGREEN,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIGREEN,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIGREEN,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIGREEN,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIGREEN,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIGREEN,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIGREEN,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPORTS,2019-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPORTS,2018-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPORTS,2017-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPORTS,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPORTS,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPORTS,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPORTS,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPORTS,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPORTS,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPOWER,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPOWER,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPOWER,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPOWER,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPOWER,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ADANIPOWER,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,AMBUJACEM,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,AMBUJACEM,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,AMBUJACEM,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,AMBUJACEM,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,AMBUJACEM,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,APOLLOHOSP,2019-03,Invalid annual report URL format
+DQ-13,WARNING,documents,APOLLOHOSP,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,APOLLOHOSP,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,APOLLOHOSP,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ASIANPAINT,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ASIANPAINT,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ASIANPAINT,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ASIANPAINT,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ATGL,2018-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ATGL,2017-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ATGL,2016-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ATGL,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ATGL,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ATGL,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ATGL,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ATGL,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ATGL,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ATGL,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,AXISBANK,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,AXISBANK,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,BAJAJ-AUTO,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,BAJAJ-AUTO,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,BAJAJ-AUTO,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,BAJAJFINSV,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,BAJAJFINSV,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,BAJAJHLDNG,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,BAJAJHLDNG,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,BAJFINANCE,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,BAJFINANCE,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,BANKBARODA,2010-03,Missing annual report URL
+DQ-13,WARNING,documents,BANKBARODA,2009-03,Missing annual report URL
+DQ-13,WARNING,documents,BEL,2022-03,Missing annual report URL
+DQ-13,WARNING,documents,BEL,2019-03,Missing annual report URL
+DQ-13,WARNING,documents,BEL,2015-03,Missing annual report URL
+DQ-13,WARNING,documents,BEL,2012-03,Missing annual report URL
+DQ-13,WARNING,documents,BEL,2011-03,Missing annual report URL
+DQ-13,WARNING,documents,BEL,2010-03,Missing annual report URL
+DQ-13,WARNING,documents,BEL,2009-03,Missing annual report URL
+DQ-13,WARNING,documents,BHARTIARTL,2021-03,Missing annual report URL
+DQ-13,WARNING,documents,BHARTIARTL,2018-03,Missing annual report URL
+DQ-13,WARNING,documents,BHARTIARTL,2011-03,Missing annual report URL
+DQ-13,WARNING,documents,BHARTIARTL,2010-03,Missing annual report URL
+DQ-13,WARNING,documents,BHARTIARTL,2009-03,Missing annual report URL
+DQ-13,WARNING,documents,BHEL,2015-03,Missing annual report URL
+DQ-13,WARNING,documents,BHEL,2014-03,Missing annual report URL
+DQ-13,WARNING,documents,BHEL,2013-03,Missing annual report URL
+DQ-13,WARNING,documents,BHEL,2012-03,Missing annual report URL
+DQ-13,WARNING,documents,BHEL,2011-03,Missing annual report URL
+DQ-13,WARNING,documents,BHEL,2010-03,Missing annual report URL
+DQ-13,WARNING,documents,BHEL,2009-03,Missing annual report URL
+DQ-13,WARNING,documents,BOSCHLTD,2019-03,Missing annual report URL
+DQ-13,WARNING,documents,BOSCHLTD,2018-03,Missing annual report URL
+DQ-13,WARNING,documents,BOSCHLTD,2017-03,Missing annual report URL
+DQ-13,WARNING,documents,BOSCHLTD,2014-03,Missing annual report URL
+DQ-13,WARNING,documents,BOSCHLTD,2013-03,Missing annual report URL
+DQ-13,WARNING,documents,BOSCHLTD,2012-03,Missing annual report URL
+DQ-13,WARNING,documents,BOSCHLTD,2011-03,Missing annual report URL
+DQ-13,WARNING,documents,BOSCHLTD,2010-03,Missing annual report URL
+DQ-13,WARNING,documents,BOSCHLTD,2009-03,Missing annual report URL
+DQ-13,WARNING,documents,BPCL,2022-03,Missing annual report URL
+DQ-13,WARNING,documents,BPCL,2019-03,Missing annual report URL
+DQ-13,WARNING,documents,BPCL,2016-03,Missing annual report URL
+DQ-13,WARNING,documents,BPCL,2015-03,Missing annual report URL
+DQ-13,WARNING,documents,BPCL,2010-03,Missing annual report URL
+DQ-13,WARNING,documents,BPCL,2009-03,Missing annual report URL
+DQ-13,WARNING,documents,BRITANNIA,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,BRITANNIA,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,CANBK,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,CANBK,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,CHOLAFIN,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,CHOLAFIN,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,CHOLAFIN,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,CIPLA,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,CIPLA,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,COALINDIA,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DABUR,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DABUR,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DLF,2018-03,Missing annual report URL
+DQ-13,WARNING,documents,DLF,2017-03,Missing annual report URL
+DQ-13,WARNING,documents,DLF,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DLF,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DMART,2016-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DMART,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DMART,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DMART,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DMART,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DMART,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DMART,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DMART,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DRREDDY,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DRREDDY,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,DRREDDY,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,EICHERMOT,2019-03,Missing annual report URL
+DQ-13,WARNING,documents,EICHERMOT,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,EICHERMOT,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,GAIL,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,GAIL,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,GODREJCP,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,GODREJCP,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,GRASIM,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,GRASIM,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HAL,2011-03,Missing annual report URL
+DQ-13,WARNING,documents,HAL,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HAVELLS,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HAVELLS,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HCLTECH,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HCLTECH,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HCLTECH,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HDFCBANK,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HDFCBANK,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HDFCBANK,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HDFCBANK,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HDFCLIFE,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HDFCLIFE,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HDFCLIFE,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HDFCLIFE,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HDFCLIFE,2008-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HEROMOTOCO,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HEROMOTOCO,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HINDALCO,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HINDALCO,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HINDUNILVR,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,HINDUNILVR,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ICICIBANK,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ICICIGI,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ICICIPRULI,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ICICIPRULI,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ICICIPRULI,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,INDIGO,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,INDIGO,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,INDIGO,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,INDIGO,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,INDIGO,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,INDIGO,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,INDIGO,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,INDUSINDBK,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,INDUSINDBK,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,INFY,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,INFY,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IOC,2024-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IOC,2023-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IOC,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IOC,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRCTC,2019-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRCTC,2018-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRCTC,2017-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRCTC,2016-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRCTC,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRCTC,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRCTC,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRCTC,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRCTC,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRCTC,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRCTC,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRFC,2020-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRFC,2019-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRFC,2018-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRFC,2017-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRFC,2016-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRFC,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRFC,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRFC,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRFC,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRFC,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRFC,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,IRFC,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ITC,2011-03,Missing annual report URL
+DQ-13,WARNING,documents,ITC,2010-03,Missing annual report URL
+DQ-13,WARNING,documents,ITC,2009-03,Missing annual report URL
+DQ-13,WARNING,documents,JINDALSTEL,2010-03,Missing annual report URL
+DQ-13,WARNING,documents,JINDALSTEL,2009-03,Missing annual report URL
+DQ-13,WARNING,documents,JIOFIN,2023-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2022-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2021-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2020-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2019-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2018-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2017-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2016-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JIOFIN,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JSWENERGY,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JSWENERGY,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JSWENERGY,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JSWSTEEL,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,JSWSTEEL,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,KOTAKBANK,2023-03,Invalid annual report URL format
+DQ-13,WARNING,documents,KOTAKBANK,2022-03,Invalid annual report URL format
+DQ-13,WARNING,documents,KOTAKBANK,2021-03,Invalid annual report URL format
+DQ-13,WARNING,documents,KOTAKBANK,2017-03,Invalid annual report URL format
+DQ-13,WARNING,documents,KOTAKBANK,2016-03,Invalid annual report URL format
+DQ-13,WARNING,documents,KOTAKBANK,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,KOTAKBANK,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,KOTAKBANK,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,KOTAKBANK,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,KOTAKBANK,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,KOTAKBANK,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LICI,2018-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LICI,2017-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LICI,2016-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LICI,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LICI,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LICI,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LICI,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LICI,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LICI,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LICI,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LODHA,2020-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LODHA,2019-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LODHA,2018-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LODHA,2017-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LODHA,2016-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LODHA,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LODHA,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LODHA,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LODHA,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LODHA,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LODHA,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LODHA,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LT,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LT,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LTIM,2016-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LTIM,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LTIM,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LTIM,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LTIM,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LTIM,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LTIM,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,LTIM,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,M&M,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,M&M,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,MARUTI,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,MARUTI,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,MOTHERSON,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,MOTHERSON,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,NAUKRI,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,NAUKRI,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,NESTLEIND,2023-03,Missing annual report URL
+DQ-13,WARNING,documents,NHPC,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,NHPC,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,NTPC,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,NTPC,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ONGC,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ONGC,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,ONGC,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,PFC,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,PFC,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,PIDILITIND,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,PIDILITIND,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,PIDILITIND,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,PNB,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,PNB,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,POWERGRID,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,POWERGRID,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,RECLTD,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,RECLTD,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,RECLTD,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,RELIANCE,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,RELIANCE,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,RELIANCE,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SBILIFE,2017-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SBILIFE,2016-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SBILIFE,2015-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SBILIFE,2014-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SBILIFE,2013-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SBILIFE,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SBILIFE,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SBILIFE,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SBILIFE,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SBIN,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SHREECEM,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SHREECEM,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SHREECEM,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SHRIRAMFIN,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SHRIRAMFIN,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SHRIRAMFIN,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SIEMENS,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SIEMENS,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,SUNPHARMA,2011-03,Missing annual report URL
+DQ-13,WARNING,documents,SUNPHARMA,2010-03,Missing annual report URL
+DQ-13,WARNING,documents,SUNPHARMA,2009-03,Missing annual report URL
+DQ-13,WARNING,documents,TATACONSUM,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TATACONSUM,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TATAMOTORS,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TATAMOTORS,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TATAPOWER,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TATAPOWER,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TATASTEEL,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TATASTEEL,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TCS,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TCS,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TECHM,2012-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TECHM,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TECHM,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TECHM,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TITAN,2011-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TITAN,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TITAN,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TORNTPHARM,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TORNTPHARM,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TRENT,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TRENT,2009-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TVSMOTOR,2010-03,Invalid annual report URL format
+DQ-13,WARNING,documents,TVSMOTOR,2009-03,Invalid annual report URL format
+DQ-14,WARNING,profitandloss,JSWENERGY,2018-03,Positive net profit with non-positive EPS
+DQ-14,WARNING,profitandloss,TATAPOWER,2013-03,Positive net profit with non-positive EPS
+DQ-14,WARNING,profitandloss,TATAPOWER,2014-03,Positive net profit with non-positive EPS
+DQ-16,WARNING,profitandloss,JIOFIN,,Only 2 distinct years available; minimum is 5
+DQ-16,WARNING,balancesheet,JIOFIN,,Only 3 distinct years available; minimum is 5
+DQ-16,WARNING,cashflow,JIOFIN,,Only 2 distinct years available; minimum is 5
